@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "predeploy": "GH_PAGES_DEPLOY=true vite build",
+    "preDeploy": "GH_PAGES_DEPLOY=true vite build",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
