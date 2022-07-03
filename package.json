@@ -1,5 +1,6 @@
 {
   "name": "ripple",
+  "description": "spritesheet ripping made easy",
   "private": true,
   "version": "0.0.0",
   "scripts": {
